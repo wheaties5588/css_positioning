@@ -1,0 +1,37 @@
+main {
+    max-width: 700px;
+    margin: auto;
+}
+h1 {
+    font-weight: 200;
+    font-size: 40px;
+}
+div {
+    font-size: 20px;
+    padding: 30px;
+    background-color: #eee;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    line-height: 30px;
+    margin: auto;
+}
+.fixed-div {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.lorem-pg {
+    margin: 20px auto;
+}
+.relative-div {
+    position: relative;
+    height: 220px;
+}
+.absolute-div {
+    position: absolute;
+    bottom: 0px;
+    right: -35px;
+    background-color: #999;
+}
